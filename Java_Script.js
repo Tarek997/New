@@ -1,5 +1,5 @@
 function Open()
 {
-    window.open("https://harmash.com/");
+    window.open("https://harmash.com/")
     
 }
